@@ -1,0 +1,8 @@
+{
+    "name": "naderman-test/foo",
+    "description": "Just a test",
+    "license": "BSD-2-Clause",
+    "require": {
+        "php": "^7.0.0"
+    }
+}
