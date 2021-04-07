@@ -1,2 +1,4 @@
 Package Foo
 ===========
+
+A description
